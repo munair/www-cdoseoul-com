@@ -1,26 +1,25 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Business Casual](http://startbootstrap.com/template-overviews/business-casual/)
+# [CDO Seoul](http://cdoseoul.com/)
 
-[Business Casual](http://startbootstrap.com/template-overviews/business-casual/) is a multipurpose website theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a landing page, about page, blog page, and a contact page along with various custom styles and components.
+[CDO Seoul](http://cdoseoul.com/) is a Capoeira group website built on a Start Bootstrap theme for [Bootstrap](http://getbootstrap.com/). 
 
-## Getting Started
+## Website
 
-To use this theme, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+To view the website, please navigate to:
+* www.cdoseoul.com
 
-## Bugs and Issues
+## Developer
 
-Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-business-casual/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/business-casual/).
+The CDO Seoul website was developed and is maintained by **Munair Simpson**, Proprietor of the [Quilombola](http://www.quilombola.com)  [Capoeira Studio](http://www.capoeirastudio.com/).
 
-## Creator
+* https://twitter.com/munair
+* https://github.com/munair
+* https://facebook.com/munair
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+## Attributions
+The CDO Seoul website is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+The CDO Seoul website was designed using the [Business Casual](http://startbootstrap.com/template-overviews/business-casual/) theme created by [David Miller](https://twitter.com/davidmillerskt), Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
 
 ## Copyright and License
 
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-business-casual/blob/gh-pages/LICENSE) license.
+Copyright 2015 Quilombola (Hong Kong) Limited. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/cdoseoul-business-casual/blob/gh-pages/LICENSE) license.
