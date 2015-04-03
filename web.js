@@ -9,6 +9,8 @@ app.use("/img", express.static(__dirname + '/img'));
 app.use("/js", express.static(__dirname + '/js'));
 
 app.get('/', function(request, response) { var htmlBuffer = fs.readFileSync('index.html', 'utf-8'); response.send(htmlBuffer); });
+app.get('/news', function(request, response) { var htmlBuffer = fs.readFileSync('news.html', 'utf-8'); response.send(htmlBuffer); });
+app.get('/blog', function(request, response) { var htmlBuffer = fs.readFileSync('blog.html', 'utf-8'); response.send(htmlBuffer); });
 
 var port = process.env.PORT || 8080;
 app.listen(port, function() {
